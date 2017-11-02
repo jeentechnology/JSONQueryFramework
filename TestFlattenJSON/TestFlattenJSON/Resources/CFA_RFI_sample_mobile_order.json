@@ -1,0 +1,148 @@
+{
+  "alohaOrderId": "8759",
+  "cfaUid": "CFAID-TBX38FFP6M",
+  "compValue": 1.45,
+  "createdAt": "2016-07-14T17:51:52.155Z",
+  "destination": "CarryOut",
+  "devicePushDetails": {
+    "buildProfile": "appstore",
+    "platform": "ios",
+    "pushRegistrationId": "e63bc2fa103fdf48b8c40e15c875abf963b841ae23ddc0d13a890ced71f729ee"
+  },
+  "kioskCode": "SDCJB",
+  "lineItems": [
+    {
+      "compValue": 1.45,
+      "itemId": "10110",
+      "name": "Small Waffle Potato Fries",
+      "quantity": 1,
+      "retailPrice": 1.45
+    },
+    {
+      "itemId": "10056",
+      "modifiers": [
+        {
+          "action": "ADD",
+          "modifierId": "10389",
+          "name": "Honey Roasted BBQ Sauce",
+          "priceAdjustment": 0,
+          "quantity": 1,
+          "retailPrice": 0
+        },
+        {
+          "action": "ADD",
+          "modifierId": "10410",
+          "name": "Multigrain Bun",
+          "priceAdjustment": 0.2,
+          "quantity": 1,
+          "retailPrice": 0.2
+        },
+        {
+          "action": "ADD",
+          "modifierId": "10325",
+          "name": "Bacon",
+          "priceAdjustment": 0.9,
+          "quantity": 1,
+          "retailPrice": 0.9
+        },
+        {
+          "action": "REMOVE",
+          "modifierId": "10354",
+          "name": "Pickles",
+          "priceAdjustment": 0,
+          "quantity": 1,
+          "retailPrice": 0
+        },
+        {
+          "action": "REMOVE",
+          "modifierId": "10333",
+          "name": "Toasted Buttered Bun",
+          "priceAdjustment": 0,
+          "quantity": 1,
+          "retailPrice": 0
+        }
+      ],
+      "name": "Spicy Deluxe w/ Pepper Jack",
+      "quantity": 1,
+      "retailPrice": 3.85
+    },
+    {
+      "itemId": "10067",
+      "modifiers": [
+        {
+          "action": "ADD",
+          "modifierId": "10405",
+          "name": "Avocado Lime Ranch",
+          "priceAdjustment": 0,
+          "quantity": 1,
+          "retailPrice": 0
+        }
+      ],
+      "name": "Grilled Chicken Wrap®",
+      "quantity": 1,
+      "retailPrice": 5.15
+    },
+    {
+      "itemId": "10078",
+      "modifiers": [
+        {
+          "action": "ADD",
+          "modifierId": "10343",
+          "name": "Honey Mustard Sauce",
+          "priceAdjustment": 0,
+          "quantity": 1,
+          "retailPrice": 0
+        }
+      ],
+      "name": "2 Chick-n-Strips™",
+      "quantity": 1,
+      "retailPrice": 2.25
+    },
+    {
+      "itemId": "10113",
+      "modifiers": [
+        {
+          "action": "ADD",
+          "modifierId": "10405",
+          "name": "Avocado Lime Ranch",
+          "priceAdjustment": 0,
+          "quantity": 1,
+          "retailPrice": 0
+        }
+      ],
+      "name": "Side Salad",
+      "quantity": 1,
+      "retailPrice": 2.79
+    },
+    {
+      "itemId": "10048",
+      "name": "Chick-fil-A® Chicken Sandwich",
+      "quantity": 1,
+      "retailPrice": 2.99
+    }
+  ],
+  "locationNumber": "03273",
+  "loyaltySource": "cfaOne",
+  "orderId": "7a103547-2ff3-4f2d-8656-6088c8aa9ede",
+  "payment": {
+    "accountNumber": "************2679",
+    "expirationMonth": 9,
+    "expirationYear": 2019,
+    "paymentType": "VAULTED_PAYMENT"
+  },
+  "processLoyalty": 1,
+  "status": "Ready",
+  "submitOrderNumber": 1159628,
+  "subTotalAmount": 18.13,
+  "taxAmount": 1.5,
+  "timestamps": {
+    "checkIn": "2016-07-14T17:48:40.499Z",
+    "create": "2016-07-14T17:22:05.046Z",
+    "ready": "2016-07-14T17:51:52.155Z",
+    "submit": "2016-07-14T17:31:39.289Z"
+  },
+  "updateAt": "2016-07-14T17:51:52.155Z",
+  "user": {
+    "firstName": "Christina "
+  }
+}

@@ -1,0 +1,9 @@
+c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\bin\Debug\TestFlattenJSON.exe.config
+c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\bin\Debug\TestFlattenJSON.exe
+c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\bin\Debug\TestFlattenJSON.pdb
+c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\bin\Debug\Newtonsoft.Json.xml
+c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.csprojResolveAssemblyReference.cache
+c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.csproj.CoreCompileInputs.cache
+c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.exe
+c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.pdb
