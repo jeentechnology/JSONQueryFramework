@@ -45,8 +45,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Connectors\CSVConnector.cs" />
+    <Compile Include="Models\ColumnModel.cs" />
+    <Compile Include="Models\DataModel.cs" />
     <Compile Include="Models\QueryModel.cs" />
     <Compile Include="Models\QueryWhereModel.cs" />
+    <Compile Include="Models\RowModel.cs" />
+    <Compile Include="Models\RowValueModel.cs" />
     <Compile Include="Processing\DataProcessor.cs" />
     <Compile Include="Processing\IQueryParser.cs" />
     <Compile Include="Processing\QueryParser.cs" />
@@ -58,7 +63,11 @@
     <None Include="App.config" />
     <None Include="packages.config" />
     <None Include="Resources\CFA_RFI_sample_mobile_order.json" />
+    <None Include="Resources\Sample.json" />
+    <Content Include="Resources\transactions.txt" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Output\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

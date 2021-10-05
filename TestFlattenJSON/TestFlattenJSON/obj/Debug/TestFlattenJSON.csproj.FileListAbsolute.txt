@@ -7,3 +7,13 @@ c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlat
 c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.csproj.CoreCompileInputs.cache
 c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.exe
 c:\users\mbeesley\documents\visual studio 2017\Projects\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.pdb
+C:\Code\code-jt\JSONQueryFramework\TestFlattenJSON\TestFlattenJSON\bin\Debug\TestFlattenJSON.exe.config
+C:\Code\code-jt\JSONQueryFramework\TestFlattenJSON\TestFlattenJSON\bin\Debug\TestFlattenJSON.exe
+C:\Code\code-jt\JSONQueryFramework\TestFlattenJSON\TestFlattenJSON\bin\Debug\TestFlattenJSON.pdb
+C:\Code\code-jt\JSONQueryFramework\TestFlattenJSON\TestFlattenJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Code\code-jt\JSONQueryFramework\TestFlattenJSON\TestFlattenJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Code\code-jt\JSONQueryFramework\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.csprojAssemblyReference.cache
+C:\Code\code-jt\JSONQueryFramework\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.csproj.CoreCompileInputs.cache
+C:\Code\code-jt\JSONQueryFramework\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.csproj.CopyComplete
+C:\Code\code-jt\JSONQueryFramework\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.exe
+C:\Code\code-jt\JSONQueryFramework\TestFlattenJSON\TestFlattenJSON\obj\Debug\TestFlattenJSON.pdb
